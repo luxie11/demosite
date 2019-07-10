@@ -1,0 +1,25 @@
+#mobile-nav{
+    display: inline;
+    color: white;
+    font-size:22px;
+    cursor: pointer;
+    margin-left:auto;
+}
+
+#mobile-right{
+    justify-content: right;
+    display: flex;
+}
+
+.top-bar, .middle-bar, .bottom-bar {
+    width: 25px;
+    height: 5px;
+    background-color: white;
+    margin: 5px 0;
+    transition: 0.4s;
+}
+
+.hamburger-right{
+    display: flex;
+    justify-content: right;
+}
