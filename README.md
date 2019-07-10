@@ -1,8 +1,8 @@
-Created a responsive web-site using React.js
-For post fetching axios library was used.
-For fake data:
+Created a responsive web-site using React.js<br>
+For post fetching axios library was used.<br>
+For fake data:<br>
 https://jsonplaceholder.typicode.com/
 ---------------------------------------------
-
-You can visit this app:
+<br>
+You can visit this app:<br>
 https://warm-bayou-68877.herokuapp.com/
